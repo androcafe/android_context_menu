@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Option Menu Application</string>
+
+    <string name="menu_item1">New Tab</string>
+    <string name="menu_item2">New incognito Tab</string>
+    <string name="menu_item3">BookMarks</string>
+    <string name="menu_item4">Recent Tab</string>
+    <string name="menu_item5">History</string>
 </resources>
