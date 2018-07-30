@@ -14,14 +14,5 @@
         android:layout_gravity="center_horizontal"
         android:id="@+id/imageVIew" />
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:layout_margin="10dp"
-        android:text="Search Or Type URL"
-        android:background="@color/colorGray"
-        android:gravity="center_horizontal"
-        android:id="@+id/textview"/>
 
 </LinearLayout>
